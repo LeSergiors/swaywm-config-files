@@ -224,17 +224,17 @@ label:focus {
 }
 
 #custom-media {
-    background-color: #66cc99;
-    color: #2a5c45;
-    min-width: 100px;
+    background-color: #333333;
+    color: #ffffff;
+    min-width: 150px;
 }
 
 #custom-media.custom-spotify {
-    background-color: #66cc99;
+    background-color: #333333;
 }
 
 #custom-media.custom-vlc {
-    background-color: #ffa000;
+    background-color: #333333;
 }
 
 #temperature {
@@ -246,7 +246,8 @@ label:focus {
 }
 
 #tray {
-    background-color: #2980b9;
+    background-color: #333333;
+    color: #ffffff;
 }
 
 #tray > .passive {
