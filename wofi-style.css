@@ -1,0 +1,41 @@
+# change this file name to style.css on .config/wofi/
+
+* {
+    border-radius: 3px;
+    border: none;
+}
+
+window {
+   font-size: 16px;
+   font-family: "Roboto Mono Medium"; 
+   background-color: rgba(51, 51, 51, 0.8);
+   color: white;
+}
+
+#entry {
+   padding: 0.25em;
+}
+
+#entry:selected {
+ 
+ background-color: #64727D;
+ color: #ffffff;
+
+}
+
+#text:selected {
+ color: #ffffff;
+}
+
+#input {
+
+ background-color: rgba(51, 51, 51, 0.5);
+ color: white;
+ padding: 0.25em;
+}
+
+
+image {
+   margin-left: .50em;
+   margin-right: .50em;
+}
